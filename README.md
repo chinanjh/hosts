@@ -1,2 +1,3 @@
 一个自用的hosts文件，集中了包括yhosts及adhosts等常见的国内外hosts并去重，白名单自己维护。
 欢迎大家给白名单一起维护。
+建议只用chinahosts
